@@ -1,0 +1,8 @@
+#firstheading{
+    color: blue;
+}
+
+.post-item .secondheading{
+    color: firebrick;
+    font-family: 'Courier New', Courier, monospace;
+}
