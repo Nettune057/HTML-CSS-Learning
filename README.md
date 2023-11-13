@@ -13,7 +13,7 @@ Basic header, card (completed)
 
 ### Day 2: 13/11/2023
 
-Basic CSS
+Basic CSS, ID & Class, Priority, Selector (completed)
 
 ## License
 
