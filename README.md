@@ -11,6 +11,10 @@ Becoming a Frontend freelance developer beside of DevOps
 
 Basic header, card (completed)
 
+### Day 2: 13/11/2023
+
+Basic CSS
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
